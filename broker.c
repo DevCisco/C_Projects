@@ -1,5 +1,6 @@
 //IT: stampa dell'interesse composto di un investimento iniziale di dollari 1000 per 10 anni ad un tasso annuo del 5%
 //ENG: printing of interest composed of an investment of 1000 dollars for 10 years at a rate of 5%
+//Modificare in modo da renderlo più generale
 #include <stdio.h>
 #include <math.h>
 main(){
