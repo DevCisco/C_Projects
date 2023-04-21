@@ -1,5 +1,6 @@
 //IT: Conversione della temperatura da Celsius a Kelvin e Fahrenheit
 //ENG: Converting a temperature from Celsius to Kelvin and Fahrenheit
+//Modificare con tutte le unità di misura(Litri, Peso,ecc.)
 #include <stdio.h>
 float Fahrenheit(float temp){
     temp=temp*9/5+32;
