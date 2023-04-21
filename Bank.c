@@ -1,5 +1,6 @@
 //IT: Verifica saldo iniziale, totale addebiti ed accrediti, limite creditizio e suo superamento
 //ENG: verifying of initial bank balance, total charges and credits, credit limit and its possible exceedance
+//Modificare con Menu
 #include <stdio.h>
 main(){
     int saldo,addebito,credito,limite;
